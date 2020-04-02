@@ -40,6 +40,7 @@ com.asymmetrik.nifi.processors.RetryCounter
 com.asymmetrik.nifi.processors.RouteOnBackPressure
 com.asymmetrik.nifi.processors.RouteOnBitMask
 com.asymmetrik.nifi.processors.SplitDataFlow
+com.asymmetrik.nifi.processors.s3.ListS3Batch
 com.asymmetrik.nifi.processors.stats.CalculateAttributeMoments
 com.asymmetrik.nifi.processors.stats.CalculateBytesTransferred
 com.asymmetrik.nifi.processors.stats.CalculateLatencyStatistics
