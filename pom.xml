@@ -37,7 +37,7 @@
 
         <aws-java-sdk-cloudwatch.version>1.11.571</aws-java-sdk-cloudwatch.version>
 
-        <commons-collections.version>3.2.1</commons-collections.version>
+        <commons-collections.version>3.2.2</commons-collections.version>
         <commons-compress.version>1.19</commons-compress.version>
         <commons-io.version>2.6</commons-io.version>
         <commons-lang3.version>3.9</commons-lang3.version>
