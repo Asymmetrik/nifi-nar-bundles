@@ -49,7 +49,7 @@
         <!-- okhttp3.HttpUrl.get(Ljava/lang/String;)Lokhttp3/HttpUrl; -->
         <influxdb-java.version>2.14</influxdb-java.version>
         <jackson-core.version>2.9.9</jackson-core.version>
-        <jackson-databind.version>2.9.10.3</jackson-databind.version>
+        <jackson-databind.version>2.9.10.7</jackson-databind.version>
         <jsch.version>0.1.55</jsch.version>
         <json-path.version>2.4.0</json-path.version>
         <jsoup.version>1.8.3</jsoup.version>
